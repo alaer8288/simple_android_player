@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简易播放器</string>
+    <string name="pick_video">选择视频</string>
+    <string name="sample_video">内置示例</string>
+    <string name="play">播放</string>
+    <string name="stop">停止</string>
+    <string name="loop_playback">循环</string>
+    <string name="select_video_first">选择视频文件，或点“内置示例”直接播放（H.264/H.265 MP4）</string>
+</resources>
