@@ -7,3 +7,6 @@ captures/
 .externalNativeBuild/
 .cxx/
 measurements/
+*.keystore
+*.jks
+/*.apk
